@@ -1,0 +1,64 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note
+{
+    font-size: 15px;
+    color: #1f2a3b;
+}
+
+body
+{
+    background-size: cover;
+}
+
+.div_spectacle
+{
+    float: left;
+}
+
+.div_spectacle_image
+{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#spectacle
+{
+    font-size: 23px;
+    margin: 15px;
+}
+
+
+.div_miraculous_ladybug
+{
+    float: right;
+}
+
+.div_miraculous_ladybug_image
+{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#miraculous_ladybug
+{
+    font-size: 23px;
+    margin: 15px;
+}
+
+.play_button
+{
+    width: 130px;
+    font-size: 25px;
+}
+
+canvas
+{
+    border: 5px solid snow;
+    border-radius: 20px;
+}
